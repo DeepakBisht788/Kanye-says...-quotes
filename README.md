@@ -1,2 +1,8 @@
-# Kanye-says...-quotes
-This is a simple Python app that displays random Kanye West quotes using the Kanye.rest API. Built with Tkinter, the app features a user-friendly interface where a button fetches and displays a new quote each time it’s clicked. The app includes a customizable background and Kanye-themed button for a fun, interactive experience.
+# Kanye Says... App
+This is a simple Python application that uses `Tkinter` for the graphical interface and the `Kanye.rest` API to display random Kanye West quotes. The application features a button that fetches and displays a new quote every time it is clicked.
+
+## Features
+- **Random Kanye Quotes**: Fetches a new Kanye West quote every time the button is pressed.
+- **User Interface**: Built with `Tkinter`, a Python GUI library.
+- **Customizable Background**: The app includes a background image and a Kanye West-themed button.
+- **Simple and Interactive**: Click the button to get a new quote displayed on the screen.
